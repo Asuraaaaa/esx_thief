@@ -5,7 +5,7 @@ Rework from the esx_thief. (https://github.com/ESX-PUBLIC/esx_thief)
 
 You can steal someone by pointing at them with your gun. The target has to hands up!
 
-Only items, cash and black money can be stolen.
+Only items, weapons and black money can be stolen.
 
 
 ## WHATS NEW
